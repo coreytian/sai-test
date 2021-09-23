@@ -107,6 +107,6 @@ return [
         ],
     ],
 
-    'uploadNotificationTo' => 'coreytian.work@gmail.com'
+    'uploadNotificationTo' => 'notify@test.test'
 
 ];
